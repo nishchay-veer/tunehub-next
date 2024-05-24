@@ -1,5 +1,5 @@
 {
-  "name": "spotify",
+  "name": "tunehub",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -16,7 +16,7 @@
     "@supabase/auth-helpers-react": "^0.4.2",
     "@supabase/auth-ui-react": "^0.4.7",
     "@supabase/auth-ui-shared": "^0.1.8",
-    "@supabase/supabase-js": "^2.39.3",
+    "@supabase/supabase-js": "^2.43.4",
     "howler": "^2.2.4",
     "next": "14.0.4",
     "query-string": "^8.1.0",

@@ -13,7 +13,7 @@ const font = Figtree({ subsets: ['latin'] })
 
 export const revalidate = 0;
 export const metadata: Metadata = {
-  title: 'Spotify App',
+  title: 'TuneHub',
   description: 'Listen to music',
 }
 

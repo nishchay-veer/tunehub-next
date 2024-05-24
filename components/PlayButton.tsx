@@ -11,7 +11,7 @@ function PlayButton() {
     rounded-full
     items-center
     flex
-    bg-green-500
+    bg-pink-700
     p-4
     drop-shadow-md
     translate
